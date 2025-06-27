@@ -3,6 +3,9 @@
 *.local
 *.log*
 
+# Build output
+build/
+
 # Dist
 node_modules
 dist/
